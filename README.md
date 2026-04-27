@@ -106,7 +106,7 @@ AWS (ECS, Fargate, ECR, VPC, IAM, IoT Greengrass) · Terraform · Linux/Bash
 Docker · GitHub Actions · Git · DVC (Data Version Control)
 
 **Backend & MLOps**  
-Python · FastAPI · Pytest · SQL
+Python · FastAPI · Pytest · SQL · CNN · TensorFlow · Keras
 
 **Currently Learning**  
 Duke University: *Building Cloud Computing Solutions at Scale* · Shipping [DeepLearning.AI](http://DeepLearning.AI) models to production
@@ -128,11 +128,11 @@ Duke University: *Building Cloud Computing Solutions at Scale* · Shipping [Deep
 ## 📫 Let's Build Something
 
 **Open to:** Cloud Engineering · DevOps · MLOps roles at startups shipping AI products  
-**Location:** Remote (Based in YOUR_LOCATION)
+**Location:** Remote
 
-📧 **Email:** your.email@example.com  
-💼 **LinkedIn:** [linkedin.com/in/your-profile](([https://www.linkedin.com/in/abdulmuiz-sulaiman/]))  
-🌐 **Portfolio:** [yourwebsite.com](https://yourwebsite.com) *(Optional - remove if you don't have one)*
+📧 **Email:** sulaimanabdulmuheez@gmail.com
+💼 **LinkedIn:** [linkedin.com/in/abdulmuiz-sulaiman](https://www.linkedin.com/in/abdulmuiz-sulaiman/)  
+<!--🌐 **Portfolio:** [yourwebsite.com](https://yourwebsite.com) *(Optional - remove if you don't have one)* -->
 
 ---
 
