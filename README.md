@@ -23,7 +23,7 @@
 
 Currently deploying ML inference pipelines at scale. Previously built and operated infrastructure for enterprise AI automation clients as agency founder.
 
-**Mechatronics engineer.** I understand both the metal and the cloud—from edge hardware to distributed systems.
+**Mechatronics Engineering student.** I understand both the metal and the cloud—from edge hardware to distributed systems.
 
 ---
 
