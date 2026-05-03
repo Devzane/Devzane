@@ -132,7 +132,7 @@ Duke University: *Building Cloud Computing Solutions at Scale* · Shipping [Deep
 
 📧 **Email:** sulaimanabdulmuheez@gmail.com
 💼 **LinkedIn:** [linkedin.com/in/abdulmuiz-sulaiman](https://www.linkedin.com/in/abdulmuiz-sulaiman/)  
-🌐 **Portfolio:** [yourwebsite.com](https://yourwebsite.com) *(Optional - remove if you don't have one)* 
+<!--🌐 **Portfolio:** [yourwebsite.com](https://yourwebsite.com) *(Optional - remove if you don't have one)* -->
 
 ---
 
