@@ -78,7 +78,7 @@ graph LR
 
 **Stack:** Python · FastAPI · Docker · GitHub Actions (OIDC) · AWS ECS Fargate · ECR · Terraform
 
-🔗 **[View Architecture Code →](https://github.com/Devzane/REPO_NAME)** *(Replace with actual repo or remove if private)*
+<!-- 🔗 **[View Architecture Code →](https://github.com/Devzane/REPO_NAME)** *(Replace with actual repo or remove if private)*-->
 
 ---
 
@@ -93,7 +93,7 @@ graph LR
 
 **Why It Matters:** No more "works on my machine." Dev, staging, prod are identical except for scaling parameters.
 
-🔗 **[View Code →](https://github.com/Devzane/REPO_NAME)** *(Replace or remove)*
+<!-- 🔗 **[View Code →](https://github.com/Devzane/REPO_NAME)** *(Replace or remove)*-->
 
 ---
 
