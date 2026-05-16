@@ -152,7 +152,7 @@ graph LR
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Devzane&theme=dark)](https://git.io/streak-stats)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Devzane&show_icons=true&theme=dark&count_private=true&hide=contribs)](https://github.com/Devzane)
+<!-- [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Devzane&show_icons=true&theme=dark&count_private=true&hide=contribs)](https://github.com/Devzane) -->
 
 </div>
 
