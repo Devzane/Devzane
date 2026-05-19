@@ -78,7 +78,7 @@ graph LR
 
 **Stack:** Python · FastAPI · Docker · GitHub Actions (OIDC) · AWS ECS Fargate · ECR · Terraform
 
-<!-- 🔗 **[View Architecture Code →](https://github.com/Devzane/REPO_NAME)** *(Replace with actual repo or remove if private)*-->
+🔗 **[View Architecture Code →](https://github.com/Devzane/REPO_NAME)** *(Replace with actual repo or remove if private)*
 
 ---
 
