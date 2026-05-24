@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 Infrastructure Engineer | Founder | Systems Builder
+# 🚀 Infrastructure Engineer | Platform Engineer | Systems Builder
 
 [![Shipping](https://img.shields.io/badge/Status-Building%20Production%20Systems-success?style=flat-square&logo=aws)](https://github.com/Devzane)
 [![Contact](https://img.shields.io/badge/Contact-Open%20to%20Opportunities-orange?style=flat-square&logo=gmail)](mailto:sulaimanabdulmuheez@gmail.com)
@@ -24,7 +24,7 @@ Now I specialize in **code-first cloud architecture**: Terraform for immutable i
 
 I bring a **founder's bias for action** to infrastructure teams—I don't wait for permission to fix what's broken.
 
-**Background:** Mechatronics Engineering (hardware + software systems) | Agency Founder | Production Infrastructure Operator
+**Background:** Mechatronics Engineering (hardware + software systems) | Production Infrastructure Operator
 
 ---
 
@@ -93,7 +93,7 @@ graph LR
 
 **Why It Matters:** No more "works on my machine." Dev, staging, prod are identical except for scaling parameters.
 
-<!-- 🔗 **[View Code →](https://github.com/Devzane/REPO_NAME)** *(Replace or remove)*-->
+🔗 **[View Code →](https://github.com/Devzane/REPO_NAME)**
 
 ---
 
