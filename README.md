@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀  | Infrastructure Engineer | Platform Engineer | Systems Builder
+# 🚀 AI Engineer | Infrastructure Engineer | Platform Engineer | Systems Builder
 
 [![Shipping](https://img.shields.io/badge/Status-Building%20Production%20Systems-success?style=flat-square&logo=aws)](https://github.com/Devzane)
 [![Contact](https://img.shields.io/badge/Contact-Open%20to%20Opportunities-orange?style=flat-square&logo=gmail)](mailto:sulaimanabdulmuheez@gmail.com)
